@@ -1,0 +1,14 @@
+---
+label: URL Shortener
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Shortened URL
+- type: text
+  name: redirect
+  label: Full URL
+pages:
+- content/_index.md
+- content/aethergp.md
+- content/tg.md
