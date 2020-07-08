@@ -10,4 +10,5 @@ fields:
   label: Full URL
 pages:
 - content/_index.md
+- content/meetperpetual2020.md
 - content/omophfeast2020.md
